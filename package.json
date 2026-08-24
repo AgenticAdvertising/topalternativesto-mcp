@@ -1,0 +1,14 @@
+{
+  "name": "topalternativesto-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for TopAlternativesTo: verified software comparisons, checked pricing with its source and date, and ranked alternatives.",
+  "type": "module",
+  "bin": { "topalternativesto-mcp": "index.mjs" },
+  "main": "index.mjs",
+  "scripts": { "start": "node index.mjs" },
+  "dependencies": { "@modelcontextprotocol/sdk": "^1.30.0" },
+  "homepage": "https://topalternatives.to",
+  "repository": { "type": "git", "url": "git+https://github.com/AgenticAdvertising/topalternativesto-mcp.git" },
+  "license": "MIT",
+  "keywords": ["mcp", "model-context-protocol", "software", "saas", "alternatives", "pricing", "comparison"]
+}

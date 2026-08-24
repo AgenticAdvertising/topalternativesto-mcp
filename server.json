@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.AgenticAdvertising/topalternativesto",
+  "title": "TopAlternativesTo",
+  "description": "Compare software: verified pricing with its source and date, and ranked alternatives.",
+  "repository": {
+    "url": "https://github.com/AgenticAdvertising/topalternativesto-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://topalternatives.to",
+  "icons": [
+    {
+      "src": "https://topalternatives.to/brand/mark/topalternativesto-mark-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://topalternatives.to/api/mcp/mcp"
+    }
+  ]
+}
