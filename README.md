@@ -4,7 +4,7 @@ Give your AI assistant verified software comparisons: pricing read from the
 vendor's own page and dated, and a ranked verdict on what to switch to.
 
 Backed by [TopAlternativesTo](https://topalternatives.to), an independent
-software comparison site covering 359 tools across 59 categories with 358
+software comparison site covering 360+ tools across 59 categories with 358
 ranked alternatives guides.
 
 Free, read-only, no auth, no API key.
